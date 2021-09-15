@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CowboyShoot</string>
+    <string name="text_start_game">FIRE !</string>
+    <string name="text_user_lose">ANDA KALAH!</string>
+    <string name="text_user_win">ANDA MENANG !</string>
+    <string name="text_reset_game">RESTART !</string>
 </resources>
